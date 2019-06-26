@@ -1,0 +1,7 @@
+// COMPONENTS
+
+When to use functional components:
+	- anytime that we are trying to show simple content to the user, without a lot of logic
+
+When to use class components:
+	- if not simple content, probably class based component(user input, network request, etc...)
